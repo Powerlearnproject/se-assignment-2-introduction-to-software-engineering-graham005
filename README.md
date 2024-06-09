@@ -18,13 +18,11 @@ Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 
-
-
 a.Requirement analysis; Here you gather the information and also the requirement for the software from the customers and users of the software.You can conduct the meetings, surveys and even the intervies with the users.
 
 b.System design ; design the arctechture and the componets/elements of the software based on the requirement that you collected on phase one.
 
-c.coding / implementation; From the design that you hve obtained from phase 2, you can translate it into the actual code by doing some coding. You can write the code using the appropriate programming language of your choice. you can also condact the code reviews and unit testing.
+c.Implementation; From the design that you hve obtained from phase 2, you can translate it into the actual code by doing some coding. You can write the code using the appropriate programming language of your choice. you can also condact the code reviews and unit testing.
 
 d.Intergration and testing; in this phse, the developer ensures that the individual components work together as a complete system and meett the specified requirenemts.You can carry out several testings in this phase, e.g the system testing to validate the entire systems fuctionality against the requirements.
 
