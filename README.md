@@ -20,24 +20,24 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
 
 
 
-    Requirement analysis; Here you gather the information and also the requirement for the software from the customers and users of the software.You can conduct the meetings, surveys and even the intervies with the users.
+a.Requirement analysis; Here you gather the information and also the requirement for the software from the customers and users of the software.You can conduct the meetings, surveys and even the intervies with the users.
 
-    System design ; design the arctechture and the componets/elements of the software based on the requirement that you collected on phase one.
+b.System design ; design the arctechture and the componets/elements of the software based on the requirement that you collected on phase one.
 
-    coding / implementation; From the design that you hve obtained from phase 2, you can translate it into the actual code by doing some coding. You can write the code using the appropriate programming language of your choice. you can also condact the code reviews and unit testing.
+c.coding / implementation; From the design that you hve obtained from phase 2, you can translate it into the actual code by doing some coding. You can write the code using the appropriate programming language of your choice. you can also condact the code reviews and unit testing.
 
-    Intergration and testing; in this phse, the developer ensures that the individual components work together as a complete system and meett the specified requirenemts.You can carry out several testings in this phase, e.g the system testing to validate the entire systems fuctionality against the requirements.
+d.Intergration and testing; in this phse, the developer ensures that the individual components work together as a complete system and meett the specified requirenemts.You can carry out several testings in this phase, e.g the system testing to validate the entire systems fuctionality against the requirements.
 
-    Deployment; This phase you release the software to the production environment where it will be by the end users. Make documaatations in this phase and also the plans for deploying.
+e.Deployment; This phase you release the software to the production environment where it will be by the end users. Make documaatations in this phase and also the plans for deploying.
 
-    Maintaninance; this is the last phase, you provide eongoing support and enhancements to to the software post deployment. Here you make the updates to the system, adding new features based on user feedback, you cabn fix the bugs here
+f.Maintaninance; this is the last phase, you provide eongoing support and enhancements to to the software post deployment. Here you make the updates to the system, adding new features based on user feedback, you cabn fix the bugs here
 
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 
 
-    Agile:
+Agile
 
 Agile is flexible and iterative, emphasizing continuous feedback and adaptation.
 
@@ -47,7 +47,7 @@ Prioritizes delivering value to the customer/user quickly and frequently. Self-o
 
 Preferred Scenarios: Dynamic, evolving projects. When requirements are likely to change. Customer-centric development.
 
-    Waterfall
+Waterfall
     
 Waterfall is sequential and rigid, with distinct phases completed in order. 
 Process: Well-defined stages with formal hand-offs. Requirements for each step completed before moving to the next. Linear process from requirements to final release. Planning: Focuses on thorough planning and execution.
